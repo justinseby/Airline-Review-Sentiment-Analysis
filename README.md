@@ -1,5 +1,5 @@
 # Airline-Review-Sentiment-Analysis
-This system depicts how sentimental analysiscan be appealed to airlines recommendation systems to make ideal suggestions.
+This system depicts how sentimental analysis can be appealed to airlines recommendation systems to make ideal suggestions.
 
 
 ## Table of contents
