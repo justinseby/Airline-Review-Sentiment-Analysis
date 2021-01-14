@@ -29,7 +29,8 @@ List of features ready aare as follows:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./op.png)
+![Example screenshot](./s.png)
 
 ## Contact
 created by [@justinseby] - feel free to contact me
