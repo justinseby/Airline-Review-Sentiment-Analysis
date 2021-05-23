@@ -17,8 +17,7 @@ def conversion(content):            #for converting string into proper format
     vector = vectorizer.transform(text)
     output = vector.toarray()
     return output
-# Load a CSV file
-
+# Load a CSV filL
 dt=np.dtype([('a',np.float32,1),('b',np.float32,1)])
 def load_csv(filename):
     data = list()
