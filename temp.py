@@ -37,5 +37,6 @@ def load_csv(filename):
         data.append(first)
         target.append(np.float32(row[2]))
     c=np.array(data)
+    
     b=np.array(target)
     return c,b
