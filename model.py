@@ -29,7 +29,6 @@ def food_model(data,target):
     #sum of predicted output
     sum = np.sum(diabetes_y_pred)
     #print("Printing rating of food")
-
     #average of predicted output
     average = (sum/len(diabetes_y_pred))
     return average
