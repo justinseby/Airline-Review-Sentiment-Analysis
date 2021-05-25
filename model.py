@@ -33,7 +33,6 @@ def food_model(data,target):
     #average of predicted output
     average = (sum/len(diabetes_y_pred))
     return average
-
 def boarding_model(data,target):
 
     #Train and testing split
