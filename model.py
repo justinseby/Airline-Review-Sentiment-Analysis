@@ -14,7 +14,6 @@ def food_model(data,target):
 
     # Create linear regression object
     regr = linear_model.LinearRegression()
-
     # Train the model using the training sets
     regr.fit(diabetes_X_train, diabetes_y_train)
 
