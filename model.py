@@ -25,7 +25,6 @@ def food_model(data,target):
 
     # Use the loaded pickled model to make predictions
     diabetes_y_pred = regr_from_pickle.predict(diabetes_X_test)
-
     #sum of predicted output
     sum = np.sum(diabetes_y_pred)
     #print("Printing rating of food")
