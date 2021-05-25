@@ -50,7 +50,6 @@ def boarding_model(data,target):
     diabetes_y_pred = regr.predict(diabetes_X_test)
 
     sum = np.sum(diabetes_y_pred)
-
     #print("\n")
     #print("Printing rating of boarding")
     average = (sum/len(diabetes_y_pred))
