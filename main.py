@@ -73,6 +73,7 @@ def scrape():
             new_words.append(new_word)
         return new_words
 
+    
     def remove_punctuation(words):
         """Remove punctuation from list of tokenized words"""
         new_words = []
