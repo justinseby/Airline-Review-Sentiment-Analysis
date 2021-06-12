@@ -65,6 +65,7 @@ def scrape():
             new_words.append(new_word)
         return new_words
 
+    
     def to_lowercase(words):
         """Convert all characters to lowercase from list of tokenized words"""
         new_words = []
@@ -91,6 +92,7 @@ def scrape():
             stem = stemmer.stem(word)
             stems.append(stem)
         return stems
+    
 
     def lemmatize_verbs(words):
         """Lemmatize verbs in list of tokenized words"""
