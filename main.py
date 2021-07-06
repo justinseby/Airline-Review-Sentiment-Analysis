@@ -263,6 +263,7 @@ def scrape():
                 pay_array.append([line,sentence.sentiment.polarity,result])
     file5.close()
 
+    
     a=[]
     for line in file6:
 
