@@ -17,6 +17,7 @@ Every  day  massive  amount  of  data  is  generated  by  social  media  users  
 In this case i used airline reviews to extract their emotions.Then performan intelligent processing technique to extract the true meanings of the people’s comments andto decide and classify them in terms of positive, negative or neutral thus to know the majorityof people like or dislike the desired sector of the airline. So at the end you will get an integer sentiment value for each sector. and business can understand which sector(eg: food, staff etc.) needs improvement
 
 
+
 ## Technologies
  Python 3.6
  NLTK
