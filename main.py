@@ -28,7 +28,6 @@ import pickle
 import matplotlib.pyplot as plotter; plt.rcdefaults()
 
 
-
 #Dataset array creation
 food_array=[]
 infra_array=[]
