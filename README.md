@@ -26,7 +26,6 @@ In this case i used airline reviews to extract their emotions.Then performan int
  Pandas 
  Flask
 
-
   ## Features
 List of features ready aare as follows:
 * User can login to the system and give the link to the  review page and find the detailed sentiment analysis of that particular comments.
