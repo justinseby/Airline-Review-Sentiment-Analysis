@@ -6,6 +6,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from array import array
 
 
+
 def conversion(content):            #for converting string into proper format
     text = content
     text = [text]
