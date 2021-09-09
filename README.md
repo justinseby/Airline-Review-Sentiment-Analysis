@@ -10,7 +10,6 @@ This system depicts how sentimental analysis can be appealed to airlines recomme
 * [Screenshots](#screenshots)
 * [Contact](#contact)
 
-
 ## General info
 Every  day  massive  amount  of  data  is  generated  by  social  media  users  which  can  be  usedto  analyze  their  opinion  about  any  event,  movie,  product  or  politics.Passengers  and  otherinterested parties are able to send messages through a variety of means to express their opinionsand perceptions on Airline services on the web.  Analyzing individual postings manually is adaunting task and it is almost impossible.  Specific methods and algorithms are required toprocess these opinions to extract useful information and patterns. The system depicts how sentimental analysiscan be appealed to airlines recommendation systems to make ideal suggestions.
 
