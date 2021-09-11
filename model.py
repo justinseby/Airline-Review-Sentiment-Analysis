@@ -131,4 +131,4 @@ def staff_model(data,target):
     #print("Printing rating of staff")
     average = (sum/len(diabetes_y_pred))
     return average
-    
+   
