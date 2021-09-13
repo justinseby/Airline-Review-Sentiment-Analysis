@@ -92,7 +92,6 @@ def scrape():
             stem = stemmer.stem(word)
             stems.append(stem)
         return stems
-    
 
     def lemmatize_verbs(words):
         """Lemmatize verbs in list of tokenized words"""
