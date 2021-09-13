@@ -114,7 +114,6 @@ def scrape():
         words = remove_non_ascii(words)
         words = to_lowercase(words)
         return words
-
     url = request.form['keyword']                                  #giving input
     print("URL :",url)
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -145,8 +144,6 @@ def scrape():
        for stuff in datas:
              file1.write(stuff)
              file1.write("\n")
-
-
 
 
 
