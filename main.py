@@ -297,7 +297,7 @@ def scrape():
     p6 = staff_model(staff_data,staff_target)
 
     pieLabels = ['food','boarding','infrastructure','organisation','payment','staff']
-#print(p1,p2,p3,p4,p5,p6,p7)
+    print(p1,p2,p3,p4,p5,p6,p7)
     pieValues = [p1,p2,p3,p4,p5,p6]
     figureObject, axesObject = plotter.subplots()
     axesObject.pie(pieValues, labels=pieLabels, autopct='%1.2f', shadow=True, startangle=90)
