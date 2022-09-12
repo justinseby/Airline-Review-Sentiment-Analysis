@@ -233,6 +233,7 @@ def scrape():
                 board_array.append([line,sentence.sentiment.polarity,result])
     file4.close()
 
+    
     a=[]
     for line in file3:
 
